@@ -12,9 +12,9 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
 
 # About Me
 
-Hi, I'm **Christy** ✨  
+Hi, I'm **Christy**  
 
-I'm a master's student in the **MIPS program at Carnegie Mellon University**.  
+I'm a master's student in the **MIIPS program at Carnegie Mellon University**.  
 With a background in both **engineering** and **art**, I’ve grown into a **UI/UX designer** who loves exploring the intersection of **technology and design**.  
 
 I believe that great design happens when complex technology is translated into experiences that feel **human, intuitive, and meaningful**. My goal is to deepen my ability to bridge this gap — turning ideas and innovations into designs that empower people. 
