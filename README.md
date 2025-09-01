@@ -21,7 +21,6 @@ I believe that great design happens when complex technology is translated into e
 
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
 In **Telling Stories with Data**, I want to strengthen my ability to:  
 
@@ -31,8 +30,6 @@ In **Telling Stories with Data**, I want to strengthen my ability to:
 - Apply visualization methods to real-world UX and product design cases  
 
 As a designer, I believe data visualization is more than just making charts. It’s about **telling a story**. A well-crafted chart can highlight patterns, uncover meaning, and support decisions in ways raw numbers cannot. My goal is to learn how to design visuals that are not only accurate but also **engaging, intuitive, and human-centered**, so that data becomes a tool for understanding and action.  
-
-# Portfolio
 
 # Design Expertise
 
@@ -104,7 +101,7 @@ Alternately, you can set the size of the image using just a bit of HTML:
 
 <img src="funny-dog-unsplash.jpg" width="200"/>
 
-Remember that you'll need to upload the image into your repository, or include a link to the image somewhere else.  
+Remember that you'll need to upload the image into your repository, or include a link to the image somewhere else.
 
 ### Setting up a separate page
 
