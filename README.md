@@ -88,7 +88,7 @@ You can use different headings, like this:
 You get the idea - just don't forget the space between the # and your title.  `#Title` won't work, but `# Title` will. 
 
 ### Adding images
-<img src="https://www.cmu.edu/brand/brand-guidelines/images/lettermark-600x600.jpg" alt="Online Image" width="600"/>
+<img src="https://www.cmu.edu/brand/brand-guidelines/images/lettermark-600x600.jpg" alt="Online Image" width="300"/>
 ### Setting up a separate page
 
 So here's the code you'll need to add to your own site to create a second page. 
