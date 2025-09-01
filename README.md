@@ -89,17 +89,8 @@ You get the idea - just don't forget the space between the # and your title.  `#
 
 ### Adding images
 
-Here's an example of how to add an image to my portfolio.  
+<img src="[https://www.wallart.com/media/catalog/product/cache/871f459736130e239a3f5e6472128962/n/e/new-york-manhattan-skyline-op-fotobehang_10.jpg]" width="400"/>
 
-![funny dog picture](funny-dog-unsplash.jpg)
-> Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
-
-Alternately, you can set the size of the image using just a bit of HTML: 
-
-<img src="funny-dog-unsplash.jpg" width="200"/>
-
-Remember that you'll need to upload the image into your repository, or include a link to the image somewhere else.
 
 ### Setting up a separate page
 
