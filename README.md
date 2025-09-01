@@ -88,10 +88,7 @@ You can use different headings, like this:
 You get the idea - just don't forget the space between the # and your title.  `#Title` won't work, but `# Title` will. 
 
 ### Adding images
-
-<img src="[https://www.wallart.com/media/catalog/product/cache/871f459736130e239a3f5e6472128962/n/e/new-york-manhattan-skyline-op-fotobehang_10.jpg]" width="400"/>
-
-
+<img src="./assets/design-skills.png" alt="Design Skills Chart" width="400"/>
 ### Setting up a separate page
 
 So here's the code you'll need to add to your own site to create a second page. 
