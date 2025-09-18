@@ -6,10 +6,11 @@
 This project follows the critique by design methodology to analyze and redesign a data visualization from MakeoverMonday. Through systematic critique, user testing, and iterative design, I aimed to create a more effective visualization that better serves its intended audience and purpose.
 
 ## Step one: the visualization
+I chose “The Rise and Rise of LLMs” from Makeover Monday because it captures a pivotal moment in the development of large language models—highlighting both how many models have proliferated and how dramatically their parameter sizes have ballooned. 
 
-  ![Original LLM Timeline Visualization](images/original-visualization.png)
+  ![Original LLM Timeline Visualization](Original.png)
    
-   *Source: [MakeoverMonday - LLM Timeline](https://makeovermonday.co.uk/data/data-set-name)*
+   *Source: (https://data.world/makeovermonday/the-rise-and-rise-of-llms)*
    
 My first impression is that the chart is visually overwhelming: too many colors and overlapping bubbles make it hard to distinguish individual models. The lack of visual hierarchy and clear instructions limits quick understanding.
 What does work is the timeline pattern—it clearly shows the surge in model development and parameter growth between 2022 and 2024. Using color to separate companies is a good idea in theory, but in practice, it creates clutter rather than clarity.
