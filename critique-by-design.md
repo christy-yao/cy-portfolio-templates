@@ -1,15 +1,20 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here...
+# Redesigning "The Rise of LLMs": A Critique by Design
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+##Overview
+This project follows the critique by design methodology to analyze and redesign a data visualization from MakeoverMonday. Through systematic critique, user testing, and iterative design, I aimed to create a more effective visualization that better serves its intended audience and purpose.
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+  ![Original LLM Timeline Visualization](images/original-visualization.png)
+   
+   *Source: [MakeoverMonday - LLM Timeline](https://makeovermonday.co.uk/data/data-set-name)*
+   
+My first impression is that the chart is visually overwhelming: too many colors and overlapping bubbles make it hard to distinguish individual models. The lack of visual hierarchy and clear instructions limits quick understanding.
+What does work is the timeline pattern—it clearly shows the surge in model development and parameter growth between 2022 and 2024. Using color to separate companies is a good idea in theory, but in practice, it creates clutter rather than clarity.
+The target audience seems to be experts in AI and LLMs, such as researchers, industry professionals, or investors. For them, the chart communicates scale and density of activity, but at the cost of readability. A redesign would benefit from a simpler hierarchy, clearer labeling, and less visual noise.
+
 
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
@@ -49,7 +54,14 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+<div class='tableauPlaceholder' id='viz1758165452549' style='position: relative'><noscript><a href='#'><img alt='LLM Evolution by Year: Comparing Largest Model ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ch&#47;christy&#47;LLMEvolution&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='christy&#47;LLMEvolution' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ch&#47;christy&#47;LLMEvolution&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+var divElement = document.getElementById('viz1758165452549');                    
+var vizElement = divElement.getElementsByTagName('object')[0];                    
+vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+var scriptElement = document.createElement('script');                    
+scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 
 ## References
 _List any references you used here._
