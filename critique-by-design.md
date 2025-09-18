@@ -19,13 +19,13 @@ The target audience seems to be experts in AI and LLMs, such as researchers, ind
 ## Step three: Sketch a solution
 <img src="Step3.jpg" alt="Description" width="600">
 In my sketches, I wanted to simplify the original dataset, which felt overwhelming with too many overlapping bubbles. My redesign focuses on clarity and hierarchy by highlighting only the key companies and their most important models instead of showing everything at once.
-I emphasized the largest models to clearly demonstrate growth in scale, and I used color to represent years, making the timeline easier to follow. This way, viewers can quickly see how model expanded year by year and which companies drove that growth.
+I emphasized the largest models to clearly demonstrate growth in scale, and I used color to represent years, making the timeline easier to follow. This way, viewers can quickly see how the model expanded year by year and which companies drove that growth.
 To reduce overlap and visual noise, I streamlined the layout so the chart focuses on two main ideas: **growth in training parameters and ownership of the models**. I tried to make it immediately clear to the audience how big these models have become and who is leading development.
 
 ## Step four: Test the solution
 **Interview Results Analysis & Feedback Summary**
 
-| **Question** | **Interview 1: In-class Group Discussion** | **Interview 2: Project Manager (Data Viz Background)** |
+| **Question** | **Interview 1: In-class Group Discussion** | **Interview 2: Project Manager** |
 |:-------------|:-------------------------------------------|:-------------------------------------------------------|
 | **What is the first thing you notice in the chart?** | "Why isn't time shown on the axis?" | "It's about the growth of LLM models, but the title should tell more of the story." |
 | **In your words, what do you think this chart is trying to tell?** | "It shows growth across the years, but unclear what 'parameters' means." | "It's showing LLM growth by parameters, but labeling should say training parameters to be clearer." |
