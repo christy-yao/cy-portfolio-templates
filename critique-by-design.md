@@ -43,6 +43,7 @@ To reduce overlap and visual noise, I streamlined the layout so the chart focuse
 - **Hierarchy and context improvements needed** - The critique revealed that enhancing clarity, providing better context, and establishing clear visual hierarchy are essential priorities for the final redesign
 
 ## Step five: build the solution
+
 <div class='tableauPlaceholder' id='viz1758232770606' style='position: relative'><noscript><a href='#'><img alt='LLM Evolution by Year: Comparing Largest Model ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;LL&#47;LLM_17582104630940&#47;LLMEvolution&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='LLM_17582104630940&#47;LLMEvolution' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;LL&#47;LLM_17582104630940&#47;LLMEvolution&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
 <script type='text/javascript'>                    
    var divElement = document.getElementById('viz1758232770606');                    
@@ -53,8 +54,9 @@ To reduce overlap and visual noise, I streamlined the layout so the chart focuse
 </script>
 
 
-**What I Changed**
 
+
+**What I Changed**
 Based on this feedback, I redesigned the chart in Tableau with the following changes:
 - **Filtered to the largest models per year (2021–2024):** This reduced clutter while still telling the growth story.
 - **Explicit year display:** I placed years directly on the axis, making the timeline clearer.
@@ -62,14 +64,15 @@ Based on this feedback, I redesigned the chart in Tableau with the following cha
 - **Heat map encoding for parameters:** I used a color scale where darker shades represent larger parameter counts. This makes it easy to spot the biggest models at a glance.
 - **Improved labeling and caption:** I updated the axis to "Trained on X Billion Parameters" and included a note explaining that parameters represent model size and capability.
 
+
 **What My Redesigned Visualization Shows**
 My final chart, "LLM Evolution by Year: Comparing Largest Model", highlights the largest LLMs released from 2021–2024. By combining company ownership, model names, and a heat map of training parameters, the chart makes it easier to see:
 - **Which companies released the largest models** (e.g., OpenAI, Anthropic, Google).
 - **How model scale grew dramatically year over year,** especially between 2022 and 2023.
 - **The competitive landscape across major AI players,** without overwhelming overlap.
 
-**Final Thoughts**
 
+**Final Thoughts**
 This assignment really showed me how much a chart's effectiveness depends on clarity and purpose. The original bubble chart was colorful but overwhelming—it had too much going on without guiding the audience. Redesigning it pushed me to ask: **who is this for, and what do they need to see?**
 By narrowing the focus to the largest models each year, adding a caption to explain parameters, and making the timeline clearer, I was able to tell the story without the clutter. The result feels more readable, and it highlights both the rapid growth of model size and the companies driving it.
 My biggest takeaway is that **good visualization isn't about cramming in all the data, it's about focusing the story**. I think my redesign does that much better than the original, showing the industry's expansion while keeping attention on scale and ownership.
