@@ -24,17 +24,16 @@ To reduce overlap and visual noise, I streamlined the layout so the chart focuse
 
 ## Step four: Test the solution
 **Interview Results Analysis & Feedback Summary**
+
 | **Question** | **Interview 1: In-class Group Discussion** | **Interview 2: Project Manager (Data Viz Background)** |
-|--------------|---------------------------------------------|--------------------------------------------------------|
+|:-------------|:-------------------------------------------|:-------------------------------------------------------|
 | **What is the first thing you notice in the chart?** | "Why isn't time shown on the axis?" | "It's about the growth of LLM models, but the title should tell more of the story." |
 | **In your words, what do you think this chart is trying to tell?** | "It shows growth across the years, but unclear what 'parameters' means." | "It's showing LLM growth by parameters, but labeling should say training parameters to be clearer." |
 | **Is there anything surprising or confusing?** | "Not sure what parameters stand for—maybe model scale size? Also unclear audience—experts vs. general users." | "Confusing that the x-axis doesn't directly show years. The title is too vague." |
 | **Which part of the chart was most helpful?** | "You can still see the growth trend across years, and company ownership is interesting." | "The use of color to represent years makes growth easy to see." |
 | **Is there anything you would change or do differently?** | "Add clearer title, define parameters, and consider audience-specific designs." | "Label the axis more specifically, include some model names, and make the largest models clearer." |
 
-**Synthesis**
-
-**Key Patterns from Feedback**
+**Synthesis & Key Patterns from Feedback**
 
 - **Consistent trend recognition** - Participants could identify the growth pattern despite other issues
 - **Terminology barriers** - Universal confusion around technical terms like "parameters" hindered understanding
