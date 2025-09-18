@@ -56,7 +56,7 @@ To reduce overlap and visual noise, I streamlined the layout so the chart focuse
 
 
 
-**What I Changed**
+## What I Changed
 Based on this feedback, I redesigned the chart in Tableau with the following changes:
 - **Filtered to the largest models per year (2021–2024):** This reduced clutter while still telling the growth story.
 - **Explicit year display:** I placed years directly on the axis, making the timeline clearer.
@@ -65,14 +65,14 @@ Based on this feedback, I redesigned the chart in Tableau with the following cha
 - **Improved labeling and caption:** I updated the axis to "Trained on X Billion Parameters" and included a note explaining that parameters represent model size and capability.
 
 
-**What My Redesigned Visualization Shows**
+## What My Redesigned Visualization Shows
 My final chart, "LLM Evolution by Year: Comparing Largest Model", highlights the largest LLMs released from 2021–2024. By combining company ownership, model names, and a heat map of training parameters, the chart makes it easier to see:
 - **Which companies released the largest models** (e.g., OpenAI, Anthropic, Google).
 - **How model scale grew dramatically year over year,** especially between 2022 and 2023.
 - **The competitive landscape across major AI players,** without overwhelming overlap.
 
 
-**Final Thoughts**
+## Final Thoughts
 This assignment really showed me how much a chart's effectiveness depends on clarity and purpose. The original bubble chart was colorful but overwhelming—it had too much going on without guiding the audience. Redesigning it pushed me to ask: **who is this for, and what do they need to see?**
 By narrowing the focus to the largest models each year, adding a caption to explain parameters, and making the timeline clearer, I was able to tell the story without the clutter. The result feels more readable, and it highlights both the rapid growth of model size and the companies driving it.
 My biggest takeaway is that **good visualization isn't about cramming in all the data, it's about focusing the story**. I think my redesign does that much better than the original, showing the industry's expansion while keeping attention on scale and ownership.
