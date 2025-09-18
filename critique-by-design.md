@@ -52,7 +52,9 @@ To reduce overlap and visual noise, I streamlined the layout so the chart focuse
    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+
 **What I Changed**
+
 Based on this feedback, I redesigned the chart in Tableau with the following changes:
 - **Filtered to the largest models per year (2021–2024):** This reduced clutter while still telling the growth story.
 - **Explicit year display:** I placed years directly on the axis, making the timeline clearer.
@@ -67,6 +69,7 @@ My final chart, "LLM Evolution by Year: Comparing Largest Model", highlights the
 - **The competitive landscape across major AI players,** without overwhelming overlap.
 
 **Final Thoughts**
+
 This assignment really showed me how much a chart's effectiveness depends on clarity and purpose. The original bubble chart was colorful but overwhelming—it had too much going on without guiding the audience. Redesigning it pushed me to ask: **who is this for, and what do they need to see?**
 By narrowing the focus to the largest models each year, adding a caption to explain parameters, and making the timeline clearer, I was able to tell the story without the clutter. The result feels more readable, and it highlights both the rapid growth of model size and the companies driving it.
 My biggest takeaway is that **good visualization isn't about cramming in all the data, it's about focusing the story**. I think my redesign does that much better than the original, showing the industry's expansion while keeping attention on scale and ownership.
