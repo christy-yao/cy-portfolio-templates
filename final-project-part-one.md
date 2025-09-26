@@ -26,7 +26,7 @@ This “swiping culture” creates an environment built on speed and instant cho
 <img src="Part1-2.2.jpg" width="800">
 
 ## 3. The Problem: Burnout & Fatigue
-Despite widespread adoption, many users remain dissatisfied. Burnout on dating apps is common, though its intensity varies across generations. A 2024 Forbes Health survey found that 79% of Gen Z and 80% of millennials reported feeling emotionally or mentally exhausted from their dating app use[^3].
+Despite widespread adoption, many users remain dissatisfied. Burnout on dating apps is common, though its intensity varies across generations. A 2024 Forbes Health survey found that 80% of Gen Z and 79% of millennials reported feeling emotionally or mentally exhausted from their dating app use[^3].
 
 <img src="Part1-3.jpg" width="800">
 
@@ -56,9 +56,9 @@ Datasets
 | Name | URL | Description |
 |------|-----|-------------|
 | Forbes – Dating Statistics and Facts (2025) | [Link](https://www.forbes.com/health/dating/dating-statistics/) | Global and U.S. statistics on dating app usage, demographics, popular platforms, and success rates. Used for visualizations showing the rise of online dating apps and U.S. demographic breakdowns. |
-| Forbes Health Survey (2025) | [Link](https://www.forbes.com/health/dating/dating-app-fatigue/) | Survey showing 78% of users report burnout, with generational differences, causes of fatigue, and time spent on apps. Used for analysis of user environment, motivations, and burnout causes. |
+| Forbes Health Survey (2025) | [Link](https://www.forbes.com/health/dating/dating-app-fatigue/) | Survey showing users report burnout, with generational differences, causes of fatigue, and time spent on apps. Used for analysis of user environment, motivations, and burnout causes. |
 | Pew Research Center – Online Dating in the U.S. (2023) | [Link](https://www.pewresearch.org/internet/2023/02/02/from-looking-for-love-to-swiping-the-field-online-dating-in-the-u-s/) | Survey findings on who uses dating apps, motivations, satisfaction levels, and demographic breakdowns by age and gender. Used for age and gender breakdown charts, motivations for using apps, and user satisfaction. |
-| Pew Research Center – Key Findings (2023) | [Link](https://www.pewresearch.org/short-reads/2023/02/02/key-findings-about-online-dating-in-the-u-s/) | Insight that 1 in 10 partnered adults met their current significant other through dating apps or sites. Used for closing visualization in Part 6, emphasizing the potential for meaningful outcomes. |         
+| Pew Research Center – Key Findings (2023) | [Link](https://www.pewresearch.org/short-reads/2023/02/02/key-findings-about-online-dating-in-the-u-s/) | Insight that 1 in 10 partnered adults met their current significant other through dating apps or sites. Used for closing visualization emphasizing the potential for meaningful outcomes. |         
 
 
 The datasets were first collected and cross-referenced to ensure consistency across years and sources. Data was cleaned and summarized for clarity, then translated into charts, pictograms, and flow diagrams that tell a cohesive story.
