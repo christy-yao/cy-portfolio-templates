@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 ## Title
-Swiping through burnout: Data stories of love and fatigue in the digital age
+**Swiping through burnout: Data stories of love and fatigue in the digital age**
 
 ## Summary
 Online dating apps have become central to how people connect in modern life, especially among millennials and Gen Z. With millions of users worldwide and billions in revenue, these platforms offer accessibility and convenience but also bring unintended consequences. Recent studies reveal that around 79% of Gen Z and 78% of millennials report burnout or fatigue from dating app use. Many describe feelings of frustration, disappointment, and emotional exhaustion caused by repetitive swiping, superficial interactions, and the endless cycle of ghosting.
