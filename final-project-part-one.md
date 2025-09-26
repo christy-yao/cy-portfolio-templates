@@ -82,5 +82,3 @@ I used ChatGPT to help organize my resources and refine the writing and structur
 [^3]: Forbes Health. (2025). [Forbes Health Survey](https://www.forbes.com/health/dating/dating-app-fatigue/)
 [^4]: Pew Research Center. (2023). [Key findings about online dating in the U.S.](https://www.pewresearch.org/short-reads/2023/02/02/key-findings-about-online-dating-in-the-u-s/)
 [^5]: eharmony Editorial Team. (2025). [Online Dating Statistics](https://www.eharmony.com/online-dating-statistics/#fn2-3175)
-
-
