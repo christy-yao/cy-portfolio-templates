@@ -76,7 +76,7 @@ The overall design will follow a storyline that builds toward a call to action: 
 I used ChatGPT to help organize my resources and refine the writing and structure of this project.
 
 
-## References
+# References
 [^1]:Forbes. (2025). [Dating Statistics And Facts In 2025](https://www.forbes.com/health/dating/dating-statistics/)
 [^2]: Pew Research Center. (2023). [Online Dating in the U.S.](https://www.pewresearch.org/internet/2023/02/02/from-looking-for-love-to-swiping-the-field-online-dating-in-the-u-s/)
 [^3]: Forbes Health. (2025). [Forbes Health Survey](https://www.forbes.com/health/dating/dating-app-fatigue/)
