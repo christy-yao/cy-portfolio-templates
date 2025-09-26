@@ -19,21 +19,21 @@ The majority of users (60%) are between the ages 18–34, underscoring how centr
 ## 2. The Environment: Swiping Culture
 Dating apps have transformed how people connect. Nearly half of users are looking for a long-term partner, while about four in ten prefer casual dating. Smaller groups use them primarily for hookups (24%) or simply to make new friends (22%)[^2].
 
-<img src="Part1-2.1.jpg" width="600">
+<img src="Part1-2.1.jpg" width="700">
 
 This “swiping culture” creates an environment built on speed and instant choices — and men and women approach the apps differently, with varied motivations. Beyond intentions, time investment plays a major role: users spend close to an hour per day on dating apps, with women and millennials devoting the most time[^2]. Over time, this routine leads to fatigue from constant engagement.
 
-<img src="Part1-2.2.jpg" width="600">
+<img src="Part1-2.2.jpg" width="700">
 
 ## 3. The Problem: Burnout & Fatigue
 Despite widespread adoption, many users remain dissatisfied. Burnout on dating apps is common, though its intensity varies across generations. A 2024 Forbes Health survey found that 79% of Gen Z and 80% of millennials reported feeling emotionally or mentally exhausted from their dating app use[^3].
 
-<img src="Part1-3.jpg" width="600">
+<img src="Part1-3.jpg" width="700">
 
 ## 4. Causes of Burnout
 Burnout does not emerge overnight. It develops from a mix of behavioral, psychological, and structural factors. Users describe ghosting, endless swiping, superficial interactions, and lack of meaningful matches as recurring frustrations[^3]. These issues disproportionately affect younger, high-engagement users, making them especially vulnerable to emotional fatigue.
 
-<img src="Part1-4.jpg" width="600">
+<img src="Part1-4.jpg" width="700">
 
 ## 5. From User Impact to Meaningful Relationships
 This emotional strain translates directly into user experience. Satisfaction is deeply split: 53% of users describe their dating app experience as positive, while 46% report it as negative[^2]. Gender differences sharpen this divide, with women more likely than men to describe their experiences as frustrating or unsafe.
