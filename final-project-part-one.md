@@ -1,42 +1,59 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
+## Title
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
+## Summary
+Online dating apps have become central to how people connect in modern life, especially among millennials and Gen Z. With millions of users worldwide and billions in revenue , these platforms offer accessibility and convenience but also bring unintended consequences. Recent studies reveal that around 79% of Gen Z and 78% of millennials report burnout or fatigue from dating app use . Many describe feelings of frustration, disappointment, and emotional exhaustion caused by repetitive swiping, superficial interactions, and the endless cycle of ghosting.
 
-# Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+This project explores the causes and impact of dating app burnout, drawing on recent statistics, surveys, and expert insights. Key factors include algorithm-driven design that encourages overuse , decision fatigue from too many choices , and the lack of depth in online interactions . At the same time, emerging trends show younger users searching for authenticity and more meaningful offline connections  . Through data visualization, this project aims to highlight the scale of the issue, illustrate why dating app burnout is widespread, and suggest strategies to help users navigate fatigue while fostering healthier, more genuine relationships.
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+## 1. The rise of online dating app
+By 2024, more than 360 million people around the world will be swiping, scrolling, and matching, almost double the number from 2015(Statista).
+Age distribution shows that online dating is especially common among younger adults: 53% of 18–29 year olds say they’ve tried dating apps, compared to 37% of those aged 30–49, 20% of ages 50–64, and 13% of those 65+ (Pew Research, 2023).
 
-Text here...
+## 2. The Environment: Swiping Culture
+Dating apps have transformed how people connect. Research found that nearly half of users are looking for a long-term partner, while about four in ten prefer casual dating. Smaller groups use them mainly for hookups or simply to make new friends. The culture of swiping has created a space built on speed and instant choices, and Men and women also approach the apps a little differently.
 
-## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+And it’s not just about what people want — it’s about how much time they spend. On average, users dedicate nearly an hour a day to swiping and scrolling, with women and millennials spending the most. Over time, this routine can lead to fatigue from constant engagement.
 
-Text here...
+## 3. The Problem: Burnout & Fatigue
+Despite widespread adoption, many users remain dissatisfied. Burnout on dating apps is common, though its intensity differs across generations. A 2024 Forbes Health survey found that 79% of Gen Z and 80% of millennials reported feeling emotionally or mentally exhausted.
+
+## 4. Causes of Burnout
+Burnout on dating apps doesn’t happen overnight. It develops through a combination of behavioral, psychological, and structural causes. The survey points to several core reasons behind this trend, helping explain why younger, high-engagement users are especially vulnerable to burnout.
+
+## 5. From User Impact to Meaningful Relationships
+This emotional strain translates directly into user experiences. As the chart below shows, overall satisfaction is split: 53% of users describe their experiences as positive, while 46% report them as negative. 
+
+## 6. Toward Meaningful Connections
+Dating app burnout is real, but it doesn’t have to define the experience. Navigating fatigue begins with self-awareness — setting limits on time spent swiping, clarifying intentions early, and approaching apps with a healthier mindset. Used thoughtfully, dating apps can still serve as gateways to authentic relationships.
+
+Dating apps remain powerful tools, but burnout highlights the need for change. Users want authenticity, safety, and meaningful long-term connections. Data shows that 1 in 10 partnered adults met their current significant other through a dating app or site (Pew Research Center), reminding us that meaningful outcomes are possible. [^1]
+
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+This project draws on multiple publicly accessible datasets and survey findings from reputable sources to build a data-driven narrative around dating app use, burnout, and relationships. 
 
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+Datasets
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+| Forbes – Dating Statistics and Facts (2025) | [Link](https://www.forbes.com/health/dating/dating-statistics/) | Global and U.S. statistics on dating app usage, demographics, popular platforms, and success rates. Used for visualizations showing the rise of online dating apps and U.S. demographic breakdowns (Part 1). |
+| Forbes Health Survey (2025) | [Link](https://www.forbes.com/health/dating/dating-app-fatigue/)) | Survey showing 78% of users report burnout, with generational differences, causes of fatigue, and time spent on apps. Used for analysis of user environment and motivations (Part 2) and burnout causes (Part 4). |
+| Pew Research Center – Online Dating in the U.S. (2023) | [Link](https://www.pewresearch.org/internet/2023/02/02/from-looking-for-love-to-swiping-the-field-online-dating-in-the-u-s/) | Survey findings on who uses dating apps, motivations, satisfaction levels, and demographic breakdowns by age and gender. Used for age and gender breakdown charts, motivations for using apps, and user satisfaction. |
+| Pew Research Center – Key Findings (2023) | [Link](https://www.pewresearch.org/short-reads/2023/02/02/key-findings-about-online-dating-in-the-u-s/) | Insight that 1 in 10 partnered adults met their current significant other through dating apps or sites. Used for closing visualization in Part 6, emphasizing the potential for meaningful outcomes. |         
+The datasets were first collected and cross-referenced to ensure consistency across years and sources. Data was cleaned and summarized for clarity, then translated into charts, pictograms, and flow diagrams that tell a cohesive story.
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+For the final project, I will follow the storytelling flow developed in Part I as the main framework: moving from the rise of online dating apps, to user motivations and behaviors, to burnout causes and impacts, and finally toward meaningful relationships. This structured narrative will guide the creation of visuals and ensure that data supports each stage of the story arc.
+For the next phase, I plan to:
+	•	Use Tableau for advanced data visualization and interactive dashboards.
+	•	Incorporate visual storytelling into Shorthand, allowing for a more narrative-driven, immersive presentation.
+	•	Integrate both static and interactive graphics to support the final project deliverables.
+The overall design will follow a storyline that builds toward a call to action: encouraging users to navigate dating apps more intentionally, balance their digital habits, and ultimately pursue authentic, meaningful relationships. This ensures that the project is not only data-rich but also purpose-driven, leaving the audience with both insights and a practical takeaway.
 
 ## References
-_List any references you used here._
 
+[^1]: Pew Research Center. (2023). [The who, where and why of online dating in the U.S.](https://www.pewresearch.org/internet/2023/02/02/the-who-where-and-why-of-online-dating-in-the-u-s/)
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
