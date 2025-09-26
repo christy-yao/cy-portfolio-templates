@@ -56,7 +56,7 @@ Datasets
 | Name | URL | Description |
 |------|-----|-------------|
 | Forbes – Dating Statistics and Facts (2025) | [Link](https://www.forbes.com/health/dating/dating-statistics/) | Global and U.S. statistics on dating app usage, demographics, popular platforms, and success rates. Used for visualizations showing the rise of online dating apps and U.S. demographic breakdowns (Part 1). |
-| Forbes Health Survey (2025) | [Link](https://www.forbes.com/health/dating/dating-app-fatigue/)) | Survey showing 78% of users report burnout, with generational differences, causes of fatigue, and time spent on apps. Used for analysis of user environment and motivations (Part 2) and burnout causes (Part 4). |
+| Forbes Health Survey (2025) | [Link](https://www.forbes.com/health/dating/dating-app-fatigue/) | Survey showing 78% of users report burnout, with generational differences, causes of fatigue, and time spent on apps. Used for analysis of user environment and motivations (Part 2) and burnout causes (Part 4). |
 | Pew Research Center – Online Dating in the U.S. (2023) | [Link](https://www.pewresearch.org/internet/2023/02/02/from-looking-for-love-to-swiping-the-field-online-dating-in-the-u-s/) | Survey findings on who uses dating apps, motivations, satisfaction levels, and demographic breakdowns by age and gender. Used for age and gender breakdown charts, motivations for using apps, and user satisfaction. |
 | Pew Research Center – Key Findings (2023) | [Link](https://www.pewresearch.org/short-reads/2023/02/02/key-findings-about-online-dating-in-the-u-s/) | Insight that 1 in 10 partnered adults met their current significant other through dating apps or sites. Used for closing visualization in Part 6, emphasizing the potential for meaningful outcomes. |         
 
