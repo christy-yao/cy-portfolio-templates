@@ -17,7 +17,7 @@ The majority of users (60%) are between the ages 18–34, underscoring how centr
 <img src="Part1-1.2.jpg" width="700">
 
 ## 2. The Environment: Swiping Culture
-Dating apps have transformed how people connect. Nearly half of users are looking for a long-term partner, while about four in ten prefer casual dating. Smaller groups use them primarily for hookups (24%) or simply to make new friends (22%)[^2].
+Dating apps have transformed how people connect. Nearly half of users are looking for a long-term partner, while about four in ten prefer casual dating. Smaller groups use them primarily for hookups or simply to make new friends[^2].
 
 <img src="Part1-2.1.jpg" width="800">
 
