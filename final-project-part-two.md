@@ -44,8 +44,6 @@ Interviews (15–20 min each): Semi-structured, open-ended conversations to dive
 |  | Suggestions to improve the overall project? | Ask for specific changes. |
 
 
-| **P3** | Female, 26. No dating app experience (friends use them) | Could resonate by comparing it to social media (FOMO, swiping like TikTok). Found data convincing (age distribution surprising, gender motivation differences interesting). | Flow was smooth, with clear plots and turning points. | Overall engaging. Suggested improvements: highlight key points in charts; use more consistent one-tone color scheme; replace Fishbone chart with Bubble chart for clarity. | Many people use dating apps heavily and experience burnout — surprising and insightful. |
-
 
 ## Interview Findings
 
