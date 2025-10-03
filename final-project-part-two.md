@@ -3,8 +3,8 @@
 # Wireframes / storyboards
 I created a high-fidelity storyboard draft directly in Shorthand, building a visual walkthrough of the main elements of my story. This draft integrates the primary data visualizations I developed — line charts, bar charts, flow diagrams, and icon charts — and organizes them into a coherent narrative structure.
 # Storyboard
-
-You can view the storyboard here: [View Storyboard]([https://your-link-here.com](https://preview.shorthand.com/jbrTOEATkpZaMzbe/responsive/desktop))
+You can view the storyboard here: 
+[View Storyboard](https://preview.shorthand.com/jbrTOEATkpZaMzbe/responsive/desktop)
 
 By drafting the storyboard in Shorthand, I was able to test the story arc visually, ensuring that transitions felt natural and that each chart supported a clear narrative point. The preview link I provide will allow reviewers to experience this flow interactively.
 
@@ -51,8 +51,8 @@ Interviews (15–20 min each): Semi-structured, open-ended conversations to dive
 | Section | Participant 1 (Female, 27y) |Participant 2 (Male, 28y) | Participant 3 (Female, 26y) |
 |---------|----------------------|----------------------|----------------------|
 | **Experience Context** | Used dating apps (Hinge) |Used dating apps (Tinder, Bumble) | No dating app experience (friends use them) |
-| **Resonance with Storyboard** | Related ~50–70%. Burnout & swiping fatigue are accurate. Reason for burnout felt true. Some burnout visuals (heat map) are confusing at first. |Burnout & swiping fatigue are accurate. Reason for burnout felt true. Some burnout visuals (heat map) are confusing at first. | Resonated due to burnout — coped by switching apps or quitting for a while. Related to data on market size and app popularity | Found data convincing (age distribution surprising, gender motivation differences interesting). | 
-| **Clarity & Flow** | Story flow was easy to follow with plot points/turning moments. Visualizations (charts) were engaging. The graph of Burnout is initially overwhelming but understandable after review. |
+| **Resonance with Storyboard** | Related ~50–70%. Burnout & swiping fatigue are accurate. Reason for burnout felt true. Some burnout visuals (heat map) are confusing at first. | Burnout & swiping fatigue are accurate. Reason for burnout felt true. Some burnout visuals (heat map) are confusing at first. | Resonated due to burnout — coped by switching apps or quitting for a while. Related to data on market size and app popularity. Found data convincing (age distribution surprising, gender motivation differences interesting). | 
+| **Clarity & Flow** | Story flow was easy to follow with plot points/turning moments. | Visualizations (charts) were engaging. | The graph of Burnout is initially overwhelming but understandable after review. |
 | **Engagement & Impact** | Story held attention, felt convincing, and trustworthy. Suggested improvements: make visuals simpler and more relatable for quicker understanding. | Visuals are very helpful, story flow is  engaging. Felt inspired by charts and the story. Impactful overall. Suggested improvements: improve readability and provide more detail in some data.  | Flow was smooth, with clear plots and turning points. Overall engaging. Suggested improvements: highlight key points in charts; use a more consistent one-tone color scheme; replace the Fishbone chart with the Bubble chart for clarity. | 
 | **Key Takeaway** | Apps should be used with intention. Burnout is common, reminding users to engage more mindfully. | The story behind the data is impactful and personally relevant. |
 Many people use dating apps heavily and experience burnout — surprising and insightful. It could resonate by comparing it to social media (FOMO, swiping like TikTok). |
@@ -89,12 +89,5 @@ Many people use dating apps heavily and experience burnout — surprising and in
 [_Format Animations](https://help.tableau.com/current/pro/desktop/en-us/formatting_animations.htm)
 
 ## AI acknowledgements
-# Research Findings & Storyboard
-
-[👉 View Storyboard](https://your-link-here.com)
-
----
-
-## AI Assistance Acknowledgment
 The ChatGPT was used to **structure research data, highlight key themes, and propose refinements** to improve clarity, flow, and design decisions.  
 Final interpretations, decisions, and edits were made by the researcher.
