@@ -63,16 +63,15 @@ Interviews (15–20 min each): Semi-structured, open-ended conversations to dive
 - [3/3] Visuals helpful  
 - [3/3] Story convincing
 
+# Identified Changes — Part III
 
-
-# Identified changes for Part III
 | Insight from Research | Actionable Change |
 |-----------------------|-------------------|
-| All participants resonated with burnout (direct or through analogy with social media).  | Simplify charts to highlight **one key takeaway per chart** (e.g., positive vs. negative experience). |
-| Story flow was generally smooth and engaging, but some details in some felt a bit cluttered. | Ensure **content alignment and narrative consistency** across storyboard (titles, captions, pacing). |
+| All participants resonated with burnout (direct or through analogy with social media). | Simplify charts to highlight **one key takeaway per chart** (e.g., positive vs. negative experience). |
+| Story flow was generally smooth and engaging, but some details felt a bit cluttered. | Ensure **content alignment and narrative consistency** across storyboard (titles, captions, pacing). |
 | Users noted readability issues, overwhelming colors, and suggested using more focused highlights. | Use a **consistent, legible color palette**. Limit chart colors and only highlight **positive vs. negative** where relevant. |
-| Fishbone chart was confusing; the bubble chart was suggested as an alternative. Some charts are engaging (User experience), but too much color reduces clarity. | Replace **Fishbone chart with Bubble chart** for easier understanding. Simplify comparison charts by only highlighting key differences. |
-| Users found the story impactful, but engagement drops when charts are too dense. | Make visuals **reader-friendly**: emphasize one insight per chart, highlight meaningful contrasts, reduce noise. |
+| Fishbone chart was confusing; Bubble chart was suggested as an alternative. Some charts (e.g., user experience) were engaging, but too much color reduced clarity. | Replace **Fishbone chart with Bubble chart** for easier understanding. Simplify comparison charts by only highlighting key differences. |
+| Users found the story impactful, but engagement dropped when charts were too dense. | Make visuals **reader-friendly**: emphasize one insight per chart, highlight meaningful contrasts, reduce noise. |
 
 
 ## Key Design Principles for Next Iteration
